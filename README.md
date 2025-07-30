@@ -1,6 +1,6 @@
 # Data Science Assignments
 
-![Python](https://img.shields.io/badge/Python-3.12+-3776AB??logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-2.3.x-4DABCF?logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-1.16.x-003786?logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.3.x-150458?logo=pandas&logoColor=white)
